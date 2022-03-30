@@ -1,0 +1,13 @@
+.gform{
+    background-color: #ff4e31;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-top: 20px;
+    margin-right: 20px;
+}

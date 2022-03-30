@@ -24,6 +24,21 @@
       "name": "Produto de TEste",
       "price": 15.2,
       "id": 5
+    },
+    {
+      "name": "Produto de TEste",
+      "price": 15.2,
+      "id": 6
+    },
+    {
+      "name": "Relógio",
+      "price": "30,00",
+      "id": 7
+    },
+    {
+      "name": "caixa1",
+      "price": "14,00",
+      "id": 8
     }
   ]
 }
