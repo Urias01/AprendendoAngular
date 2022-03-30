@@ -1,0 +1,23 @@
+{
+  "name": "aprendendoangular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urias01/AprendendoAngular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Urias01/AprendendoAngular/issues"
+  },
+  "homepage": "https://github.com/Urias01/AprendendoAngular#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
