@@ -16,7 +16,11 @@ import { HomeComponent } from './views/home/home.component';
 
 import { MatCardModule } from '@angular/material/card';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
-import { OrangeDirective } from './directives/orange.directive'
+import { OrangeDirective } from './directives/orange.directive';
+
+import { ProductCreateComponent } from './components/product/product-create/product-create.component'
+import { MatButtonModule } from '@angular/material/button';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -25,7 +29,8 @@ import { OrangeDirective } from './directives/orange.directive'
     FooterComponent,
     HomeComponent,
     ProductCrudComponent,
-    OrangeDirective
+    OrangeDirective,
+    ProductCreateComponent
   ],
   imports: [
     BrowserModule,
@@ -34,7 +39,8 @@ import { OrangeDirective } from './directives/orange.directive'
     MatToolbarModule,
     MatSidenavModule,
     MatListModule, 
-    MatCardModule
+    MatCardModule,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]
