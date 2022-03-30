@@ -3,5 +3,14 @@
         "id": 1,
         "name": "Bolacha",
         "price": 5.89
-    }]
+    },{
+        "id": 1,
+        "name": "Biscoito",
+        "price": 7.50
+    },{
+        "id": 1,
+        "name": "Salgado",
+        "price": 3.2
+    }
+]
 }
