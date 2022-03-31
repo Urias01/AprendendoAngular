@@ -3,22 +3,12 @@
     {
       "id": 3,
       "name": "Salgado",
-      "price": 3.2
+      "price": "3.25"
     },
     {
       "name": "Produto de TEste",
       "price": 15.2,
       "id": 4
-    },
-    {
-      "name": "Relógio",
-      "price": "30.00",
-      "id": 5
-    },
-    {
-      "name": "caixa1",
-      "price": "14.00",
-      "id": 6
     },
     {
       "name": "Carro",
