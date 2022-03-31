@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Bolacha",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "Biscoito",
-      "price": 7.5
-    },
-    {
       "id": 3,
       "name": "Salgado",
       "price": 3.2
@@ -22,17 +12,17 @@
     },
     {
       "name": "Relógio",
-      "price": "30,00",
+      "price": "30.00",
       "id": 5
     },
     {
       "name": "caixa1",
-      "price": "14,00",
+      "price": "14.00",
       "id": 6
     },
     {
       "name": "Carro",
-      "price": "15,000",
+      "price": "15000",
       "id": 7
     }
   ]
