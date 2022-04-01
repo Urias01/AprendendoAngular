@@ -1,15 +1,15 @@
 1° página do site
 
-<img url="https://ibb.co/5YJLSDm">
+<img src="https://ibb.co/5YJLSDm " height="288" width="388">
 
 2° página do site
-<img url="https://ibb.co/5BRhBDK">
+<img src="https://ibb.co/5BRhBDK" height="288" width="388">
 
 3° página do site
-<img url="https://ibb.co/gdT36Cx">
+<img src="https://ibb.co/gdT36Cx" height="288" width="388">
 
 4° página do site
-<img url="https://ibb.co/sHPnhpR">
+<img src="https://ibb.co/sHPnhpR" height="288" width="388">
 
 5° página do site
-<img url="https://ibb.co/J2rnNDF">
+<img src="https://ibb.co/J2rnNDF" height="288" width="388">
